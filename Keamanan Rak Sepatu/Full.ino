@@ -76,20 +76,6 @@ void loop ()
 {
   if (status_tampilan==0){
     lcd.setCursor(0,0);
-           //0123456789012345
-    lcd.print("  TUGAS AKHIR   ");
-    lcd.setCursor(0,1);
-             //0123456789012345
-    lcd.print("      OLEH:     ");
-    delay(2000);
-    lcd.setCursor(0,0);
-             //0123456789012345
-    lcd.print(" MUHAMMAD  ZAKI ");
-    lcd.setCursor(0,1);
-             //0123456789012345
-    lcd.print(" 18101152620090 ");
-    delay(2000);
-    lcd.setCursor(0,0);
              //0123456789012345
     lcd.print("SISTEM  KEAMANAN");
     lcd.setCursor(0,1);
